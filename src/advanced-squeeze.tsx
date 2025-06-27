@@ -1,6 +1,6 @@
 import { ActionPanel, Action, Form, Clipboard, Icon, closeMainWindow } from "@raycast/api";
 import { FormValidation, useForm } from "@raycast/utils";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 // LONG FORM ITEM TOOLTIP STRINGS //
 
